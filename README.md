@@ -1,5 +1,7 @@
 # EssayGradingConvolution
 
+[Project Hosted on Kaggle](https://www.kaggle.com/code/parkersquare/using-convolution-neural-networks-to-grade-essays)
+
 > Using image processing techniques to grade short answers using neural networks
 
 Most methods in processing natural language in the field of machine learning usually revolve around recurrent methods like RNN's or LSTM's which are neural network architectures that allow for models to understand the contextual relationships between a series of input like text. However, in this project, an alternate way of processing natural language is proposed. This method comes from image processing. In image processing, the idea of convolutions is vital to building models. Images can be broken up into various levels of abstraction. A large image can have edges, groups of edges that form shapes, and groups of shapes that can form figures. In order to extract these various layers of abstractions, convolutions can be used. They are a way of downsampling and image by calculating a correlation between a region of pixels and a filter. By checking the similarity between the images and the filter, different aspects of the image like edges can be extracted. In the case of machine learning, these filters can be represented as weights and trained as parameters of a neural network in order to extract salient features of an image that can be used to classify the image or perform regression.
