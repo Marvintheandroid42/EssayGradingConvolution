@@ -1,6 +1,8 @@
 # EssayGradingConvolution
 
-[Project Hosted on Kaggle](https://www.kaggle.com/code/parkersquare/using-convolution-neural-networks-to-grade-essays)
+
+
+Project Hosted ON [ Kaggle](https://www.kaggle.com/code/parkersquare/using-convolution-neural-networks-to-grade-essays)
 
 > Using image processing techniques to grade short answers using neural networks
 
